@@ -3,7 +3,7 @@ import turtle
 
 ob = turtle.Turtle()
 ob.speed(10)
-ob.color("black", "blue")
+ob.color("black")
 ob.goto(0, 0)
 
 
